@@ -11,3 +11,4 @@
 	* `git commit -m 'my best commit'`
 5. Обновите репозиторий в вашем GitHub-аккаунте:
 	* `git push origin main`
+6. Добавьте ссылку на реджистри - cr.yandex/crp20i4oktest1i27c2k

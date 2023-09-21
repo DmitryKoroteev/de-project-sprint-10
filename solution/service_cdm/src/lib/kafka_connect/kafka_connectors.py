@@ -46,7 +46,7 @@ class KafkaConsumer:
             'sasl.username': user,
             'sasl.password': password,
             'group.id': group,  # '',
-            'auto.offset.reset': 'earliest',
+            'auto.offset.reset': 'latest',
             'enable.auto.commit': False,
             'error_cb': error_callback,
             'debug': 'all',
